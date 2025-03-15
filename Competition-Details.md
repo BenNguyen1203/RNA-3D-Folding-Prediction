@@ -30,7 +30,7 @@ Submission runtimes have been slightly obfuscated. If you repeat the exact same 
 - [RNA-Puzzles Round V: blind predictions of 23 RNA structures](https://www.nature.com/articles/s41592-024-02543-9)
 - [Ribonanza: deep learning of RNA structure through dual crowdsourcing](https://www.biorxiv.org/content/10.1101/2024.02.24.581671v2)
 - [Thoughts on how to think (and talk) about RNA structure](https://www.pnas.org/doi/10.1073/pnas.2112677119)
-- 
+
 
 ## Citation
 Shujun He, CASP16 organizers, CASP16 RNA experimentalists, RNA-Puzzles consortium, VFOLD team, Rachael Kretsch, Alissa Hummer, Andrew Favor, Walter Reade, Maggie Demkin, Rhiju Das, et al. Stanford RNA 3D Folding. https://kaggle.com/competitions/stanford-rna-3d-folding, 2025. Kaggle.
