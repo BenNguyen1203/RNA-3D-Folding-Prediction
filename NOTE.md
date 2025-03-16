@@ -1,5 +1,9 @@
 # NOTE
 
+## RNA Knowledge:
+
+### What is RNA?
+RNA (Ribonucleic Acid) is a nucleic acid, a type of biological macromolecule, similar to DNA but with key differences in structure and function. It plays a crucial role in genetics and cellular biology.
 
 
 ## Articles:
