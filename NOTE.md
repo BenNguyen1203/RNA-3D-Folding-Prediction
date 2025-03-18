@@ -11,3 +11,5 @@ RNA (Ribonucleic Acid) is a nucleic acid, a type of biological macromolecule, si
 - [RNA-Puzzles Round V: blind predictions of 23 RNA structures](https://www.nature.com/articles/s41592-024-02543-9)
 - [Ribonanza: deep learning of RNA structure through dual crowdsourcing](https://www.biorxiv.org/content/10.1101/2024.02.24.581671v2)
 - [Thoughts on how to think (and talk) about RNA structure](https://www.pnas.org/doi/10.1073/pnas.2112677119)
+- [Big data and deep learning for RNA biology](https://www.nature.com/articles/s12276-024-01243-w)
+- 
