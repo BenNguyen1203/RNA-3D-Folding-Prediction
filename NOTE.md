@@ -14,3 +14,4 @@ RNA (Ribonucleic Acid) is a nucleic acid, a type of biological macromolecule, si
 - [Big data and deep learning for RNA biology](https://www.nature.com/articles/s12276-024-01243-w)
 - [Machine learning modeling of RNA structures: methods, challenges and future perspectives](https://academic.oup.com/bib/article/24/4/bbad210/7190934)
 - [Machine learning a model for RNA structure prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC7671377/)
+- [Large language modeling and deep learning shed light on RNA structure prediction](https://www.nature.com/articles/s41592-024-02488-z)
