@@ -15,3 +15,15 @@ RNA (Ribonucleic Acid) is a nucleic acid, a type of biological macromolecule, si
 - [Machine learning modeling of RNA structures: methods, challenges and future perspectives](https://academic.oup.com/bib/article/24/4/bbad210/7190934)
 - [Machine learning a model for RNA structure prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC7671377/)
 - [Large language modeling and deep learning shed light on RNA structure prediction](https://www.nature.com/articles/s41592-024-02488-z)
+
+- [RNA language models predict mutations that improve RNA function](https://www.nature.com/articles/s41467-024-54812-y)
+- [RiboNucleic Acid Language Model - RiNALMo](https://github.com/lbcb-sci/RiNALMo)
+- [RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks](https://arxiv.org/abs/2403.00043)
+- [Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning](https://www.nature.com/articles/s42256-024-00836-4)
+
+## Extra
+This is for research purpose
+
+- [How to write a Research Paper](https://www.reddit.com/r/studytips/comments/1c71t74/effective_steps_for_writing_a_research_paper/)
+- [How to Write a Research Paper](https://cambridge-research.org/blogs/how-to-write-a-research-paper/)
+- 
