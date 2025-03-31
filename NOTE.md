@@ -26,7 +26,7 @@ This is for research purpose
 
 - [How to write a Research Paper](https://www.reddit.com/r/studytips/comments/1c71t74/effective_steps_for_writing_a_research_paper/)
 - [How to Write a Research Paper](https://cambridge-research.org/blogs/how-to-write-a-research-paper/)
-- 
+- [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k)
 
 ```
 1. Problem Definition & Scope
