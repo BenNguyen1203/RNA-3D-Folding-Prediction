@@ -43,6 +43,10 @@
   Image: Schematic representation of the mRNA structure <br>
   [Source: mRNA Fact Sheet: Definition, Structure, Function, and Association with Disease](https://www.cd-genomics.com/blog/mrna-fact-sheet-definition-structure-function-and-association-with-disease/) <br>
 
+### 5. RNA secondary structure
+- [RNA secondary structure](http://www.bioinf.man.ac.uk/resources/phase/manual/node72.html)
+- 
+
 
 
 # Articles:
@@ -62,6 +66,7 @@
 - [RiboNucleic Acid Language Model - RiNALMo](https://github.com/lbcb-sci/RiNALMo)
 - [RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks](https://arxiv.org/abs/2403.00043)
 - [Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning](https://www.nature.com/articles/s42256-024-00836-4)
+- [RNAMotif, an RNA secondary structure definition and search algorithm](https://pmc.ncbi.nlm.nih.gov/articles/PMC92549/)
 
 # Extra
 This is for research purpose
