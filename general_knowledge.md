@@ -55,6 +55,9 @@
 - [Machine learning modeling of RNA structures: methods, challenges and future perspectives](https://academic.oup.com/bib/article/24/4/bbad210/7190934)
 - [Machine learning a model for RNA structure prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC7671377/)
 - [Large language modeling and deep learning shed light on RNA structure prediction](https://www.nature.com/articles/s41592-024-02488-z)
+- [RNA 3D Structure Prediction: Progress and Perspective](https://www.mdpi.com/1420-3049/28/14/5532)
+
+<br>
 
 - [RNA language models predict mutations that improve RNA function](https://www.nature.com/articles/s41467-024-54812-y)
 - [RiboNucleic Acid Language Model - RiNALMo](https://github.com/lbcb-sci/RiNALMo)
