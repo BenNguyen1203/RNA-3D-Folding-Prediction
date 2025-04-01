@@ -73,6 +73,11 @@
 - [RNAMotif, an RNA secondary structure definition and search algorithm](https://pmc.ncbi.nlm.nih.gov/articles/PMC92549/)
 - [Secondary structures in RNA synthesis, splicing and translation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9198270/)
 
+<br>
+
+- [Nearest neighbor rules for RNA helix folding thermodynamics: improved end effects](https://academic.oup.com/nar/article/50/9/5251/6582163)
+(Turner's Rules)
+
 # Extra
 This is for research purpose
 
