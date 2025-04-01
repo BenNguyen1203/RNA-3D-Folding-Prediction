@@ -1,9 +1,18 @@
-# NOTE
-
 ## RNA Knowledge:
 
-### What is RNA?
-RNA (Ribonucleic Acid) is a nucleic acid, a type of biological macromolecule, similar to DNA but with key differences in structure and function. It plays a crucial role in genetics and cellular biology.
+### General Note:
+1. Definition
+- RNA (Ribonucleic Acid) is a nucleic acid, a type of biological macromolecule, similar to DNA but with key differences in structure and function. It plays a crucial role in genetics and cellular biology.
+- RNA is most often single-stranded. RNA molecule has a backbone made of alternating phosphate groups and the sugar ribose, attached to each sugar is one of four bases: adenine (A), uracil (U), cytosine (C), or guanine (G).
+- Types of RNA: messenger RNA (mRNA), ribosomal RNA (rRNA), and transfer RNA (tRNA)
+
+![Ribonucleic-acid_2024](https://github.com/user-attachments/assets/d69838b1-ce04-4b4c-9f9b-78712e5f5650)
+Image 1 - [Source: Ribonucleic Acid (RNA)](https://www.genome.gov/genetics-glossary/Ribonucleic-Acid-RNA)
+
+
+
+
+
 
 
 ## Articles:
