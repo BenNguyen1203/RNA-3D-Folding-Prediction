@@ -45,7 +45,6 @@
 
 ### 5. RNA primary and secondary structure
 - [RNA secondary structure](http://www.bioinf.man.ac.uk/resources/phase/manual/node72.html)
-- Youtube video: [Protein Structure and Folding](https://www.youtube.com/watch?v=hok2hyED9go)
 - Youtube video: [Anna Marie Pyle (Yale U./HHMI) Part 1: RNA Structure](https://www.youtube.com/watch?v=WCrlm18KQ48)
 - Youtube video: [Anna Marie Pyle (Yale U./HHMI) Part 2: Inside an RNA Splicing Machine](https://www.youtube.com/watch?v=ESXo3fTThBI)
 - Youtube video: [Anna Marie Pyle (Yale U./HHMI) Part 3: RNA Helicases and RNA-triggered Signaling Proteins](https://www.youtube.com/watch?v=LjCDqL8n5F0)
