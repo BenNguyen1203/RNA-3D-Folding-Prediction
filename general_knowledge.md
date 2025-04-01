@@ -67,6 +67,7 @@
 - [RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks](https://arxiv.org/abs/2403.00043)
 - [Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning](https://www.nature.com/articles/s42256-024-00836-4)
 - [RNAMotif, an RNA secondary structure definition and search algorithm](https://pmc.ncbi.nlm.nih.gov/articles/PMC92549/)
+- [Secondary structures in RNA synthesis, splicing and translation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9198270/)
 
 # Extra
 This is for research purpose
