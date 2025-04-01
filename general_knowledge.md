@@ -43,9 +43,13 @@
   Image: Schematic representation of the mRNA structure <br>
   [Source: mRNA Fact Sheet: Definition, Structure, Function, and Association with Disease](https://www.cd-genomics.com/blog/mrna-fact-sheet-definition-structure-function-and-association-with-disease/) <br>
 
-### 5. RNA secondary structure
+### 5. RNA primary and secondary structure
 - [RNA secondary structure](http://www.bioinf.man.ac.uk/resources/phase/manual/node72.html)
-- 
+- Youtube video: [Protein Structure and Folding](https://www.youtube.com/watch?v=hok2hyED9go)
+- Youtube video: [Anna Marie Pyle (Yale U./HHMI) Part 1: RNA Structure](https://www.youtube.com/watch?v=WCrlm18KQ48)
+- Youtube video: [Anna Marie Pyle (Yale U./HHMI) Part 2: Inside an RNA Splicing Machine](https://www.youtube.com/watch?v=ESXo3fTThBI)
+- Youtube video: [Anna Marie Pyle (Yale U./HHMI) Part 3: RNA Helicases and RNA-triggered Signaling Proteins](https://www.youtube.com/watch?v=LjCDqL8n5F0)
+- Youtube video: [RNA Secondary Structure; Biological Functions and Predictions](https://www.youtube.com/watch?v=kUN6rJ21Hno)
 
 
 
